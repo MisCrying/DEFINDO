@@ -1,0 +1,11 @@
+{
+    "series": {
+        "south park": {
+            "logo": "logos/south_park.png",
+            "name": "South Park",
+            "sessions": {
+
+            }
+        }
+    }
+}
